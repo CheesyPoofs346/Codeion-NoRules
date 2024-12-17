@@ -22,7 +22,7 @@ logging.basicConfig(
 )
 
 # API Keys and Configuration
-API_KEY = "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"
+API_KEY = "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"
 GOOGLE_API_KEY = "AIzaSyBURcqLSjTUq2lKNKeIcAQfhzkxhYy0bGI"
 SEARCH_ENGINE_ID = "10538e636f7334631"
 
